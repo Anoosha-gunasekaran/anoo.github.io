@@ -4,8 +4,6 @@
 Hi.. My name is Anoosha Gunasekaran. This is my first webpage.
 Please go throught my webpage.
 
-Thanks for visiting my webpage.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 My Fav things:
@@ -27,3 +25,4 @@ My Fav things:
 3. Germany
 
 ```
+Thanks for visiting my webpage.
