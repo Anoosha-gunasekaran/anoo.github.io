@@ -1,7 +1,7 @@
 
 ### Welcome to my first webpage
 
-Hi.. My name is Anoosha Gunasekaran. This is my first webpage.
+Hi.. My name is AAAAA. This is my first webpage.
 
 Please go throught my webpage.
 
@@ -11,8 +11,8 @@ My Fav things:
 
 # My TV Shows
 1. Netflix Web series
-2. Tamil Movies
-3. Vijay TV Shows
+2. Movies
+3. TV Shows
 
 
 ## My Fav Dishes
@@ -22,8 +22,8 @@ My Fav things:
 
 ### My Fav Place
 1. My sweet home
-2. My in-law place
-3. Germany
+2. Exciting new places
+
 
 ```
 Thanks for visiting my webpage.
